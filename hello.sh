@@ -1,5 +1,9 @@
 #/bin/bash
 
-echo "Hello world"
+## Simple script
+
+clear
+
+echo -e "\n\nHello world\n\n"
 
 
